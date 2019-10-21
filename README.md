@@ -1,7 +1,7 @@
- #Support
+ # Support
  
-  [Contact](mailto:summitwolf@me.com)
+   [Contact](mailto:summitwolf@me.com)
 
-#Privacy policy
+# Privacy policy
 
  [link to Google!](http://google.com)
