@@ -1,6 +1,6 @@
 # Support
  
-   [Contact](mailto:summitwolf@me.com?subject=[GITHUB]%20Euclid's%20Tiles)
+   [Contact](mailto:summitwolf@me.com?subject=Euclid's%20Tiles)
 
 # Privacy policy
 
