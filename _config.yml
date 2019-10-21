@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Welcome to Euclid's Tiles Application Support.
 description: Learn more about Euclid's Tiles and offer your suggestions, comments and questions.
+github:
+  is_project_page: false
