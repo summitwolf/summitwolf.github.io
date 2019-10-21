@@ -1,3 +1,2 @@
-## Euclid's Tiles Support
-
-<MAILTO:summitwolf@me.com>
+ [Contact](mailto:summitwolf@me.com)
+ [link to Google!](http://google.com)
