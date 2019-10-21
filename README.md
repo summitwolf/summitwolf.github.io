@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Euclid's Tiles Support
 
 You can use the [editor on GitHub](https://github.com/summitwolf/summitwolf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
