@@ -4,4 +4,4 @@
 
 # Privacy policy
 
- [link to Google!](http://google.com)
+ [Privacy Policy](PrivacyPolicy.html)
