@@ -4,4 +4,4 @@
 
 # Privacy policy
 
- [Privacy Policy](http://./PrivacyPolicy.html)
+ [Privacy Policy](PrivacyPolicy.md)
