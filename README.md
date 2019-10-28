@@ -1,5 +1,6 @@
- # Euclid's Tiles
- ## a unique memory matching game
+# Euclid's Tiles
+
+## A unique memory matching game
  
  [Support](mailto:summitwolf@me.com?subject=Euclid's%20Tiles)
 
